@@ -28,16 +28,16 @@ Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metr
 ---
 ## ⭐ Estatística
 <a href="https://github.com/LuizPedrosa77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPedrosa77-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPedrosa77-dev&layout=compact&langs_count=6&theme=radical"/>
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPedrosa77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPedrosa77&layout=compact&langs_count=6&theme=radical"/>
+
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizPedrosa77/LuizPedrosa77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizPedrosa77/LuizPedrosa77/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -48,7 +48,7 @@ Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metr
 
 
 ## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [LuizPedrosa77-study](https://github.com/LuizPedrosa77-study).  
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
 Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
 
 > Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 

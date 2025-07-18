@@ -4,6 +4,9 @@
 
 Olá, me chamo Gustavo Pedrosa, tenho 33 anos e sou natural de Recife - PE. Estou em migração de carreira para a área que mais sou apaixonado que é tecnologia. Atualmente estou saindo da área de corretor imobiliário e estou entrando de cabeça no desenvolvimento back-end Java, porém, com o objetivo é ser fullstack.
 Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metropolitana e aqui, estarei compartilhando todo meu aprendizado e projetos pessoais neste meu espaço. com as tecnologias e linguagens, com os frameworks e bibliotecas e com as ferramentas de desenvolvimento que venho estudando. Seja bem-vindo e fique a vontade para entrar em contato comigo através do Linkedin, instagram ou e-mail.
+<p align="left">
+  Vamos nos conectar? 🙋‍♂️
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
@@ -62,21 +65,11 @@ Estou atualmente no <strong>2º período de Analise e Desenvolvimento de Sistema
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Eu tenho curso profissionalizante em Redes de computadores, pacote Office, Montagem e Manutenção de computadores e após concluir esse meu curso atual, farei minha pós-graduação em engenharia de software.
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Eu tenho curso profissionalizante em Redes de computadores, pacote Office, Montagem e Manutenção de computadores e após concluir esse meu curso atual, farei minha pós-graduação em Engenharia de Software.
+  Hoje, algumas das minhas habilidade são: comunicação, ótimo desempenho em equipe, gestão de tempo e projetos, pensamento crítico dentre outros. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
-
-
-<p align="left">
-
-</p>
-
-<p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
-</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E0050,50:9A40FF,100:FF5CDE"/>

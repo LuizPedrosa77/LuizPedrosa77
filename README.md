@@ -48,10 +48,9 @@ Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metr
 
 
 ## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
-Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
+Estou atualmente no <strong>2º período de Analise e Desenvolvimento de Sistemas</strong> com o objetivo de ser <strong>fullstack</strong> e, para isso, Tenho me empenhado a estudar aproximadamente 4 horas por dia.
 
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 
+> Com foco em Java, MySql, Postgres, Spring e Python, venho registrando meus avanços no linkedin e publicando aqui os projetos e estudos.
 
 
 

@@ -1,1 +1,82 @@
-## Gustavo Ped
+# 👩🏻‍💻 Gustavo Pedrosa
+
+**`Desenvolvedor Java`**
+
+Olá, me chamo Gustavo Pedrosa, tenho 33 anos e sou natural de Recife - PE. Estou em migração de carreira para a área que mais sou apaixonado que é tecnologia. Atualmente estou saindo da área de corretor imobiliário e estou entrando de cabeça no desenvolvimento back-end Java, porém, com o objetivo é ser fullstack.
+Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metropolitana e aqui, estarei compartilhando todo meu aprendizado e projetos pessoais neste meu espaço. com as tecnologias e linguagens, com os frameworks e bibliotecas e com as ferramentas de desenvolvimento que venho estudando. Seja bem-vindo e fique a vontade para entrar em contato comigo através do Linkedin, instagram ou e-mail.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+   <a href="https://www.instagram.com/ggustavopedrosa?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luizgfju@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+</p>
+
+## 🤖 Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,docker)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,intellij)](https://skillicons.dev)
+
+
+---
+## ⭐ Estatística
+<a href="https://github.com/LuizPedrosa77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPedrosa77-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPedrosa77-dev&layout=compact&langs_count=6&theme=radical"/>
+---
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuizPedrosa77-dev/LuizPedrosa77-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+
+
+
+
+## 📚 Meus estudos
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [LuizPedrosa77-study](https://github.com/LuizPedrosa77-study).  
+Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
+
+> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+
+
+<p align="left">
+
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E0050,50:9A40FF,100:FF5CDE"/>

@@ -25,7 +25,7 @@ Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metr
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,n8n,postman,vscode,eclipse,intellij)](https://skillicons.dev)
 
 
 ---

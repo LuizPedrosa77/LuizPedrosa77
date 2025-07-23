@@ -53,7 +53,7 @@ Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metr
 ## 📚 Meus estudos
 Estou atualmente no <strong>2º período de Analise e Desenvolvimento de Sistemas</strong> com o objetivo de ser <strong>fullstack</strong> e, para isso, Tenho me empenhado a estudar aproximadamente 4 horas por dia.
 
-> Com foco em Java, MySql, Postgres, Spring, Python e guit, venho registrando meus avanços no linkedin e publicando aqui os projetos e estudos.
+> Com foco em Java, Html, Css, MySql, Postgres, Spring, Python e guit, venho registrando meus avanços no linkedin e publicando aqui os projetos e estudos.
 
 
 

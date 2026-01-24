@@ -3,7 +3,7 @@
 **`Desenvolvedor Java`**
 
 Olá, me chamo Gustavo Pedrosa, tenho 33 anos e sou natural de Recife - PE. Estou em migração de carreira para a área que mais sou apaixonado que é tecnologia. Atualmente estou saindo da área de corretor imobiliário e estou entrando de cabeça no desenvolvimento back-end Java, porém, com o objetivo é ser fullstack.
-Estou no 2º período de Analise e Desenvolvimento de Sistemas da Faculdade Metropolitana e aqui, estarei compartilhando todo meu aprendizado e projetos pessoais neste meu espaço. com as tecnologias e linguagens, com os frameworks e bibliotecas e com as ferramentas de desenvolvimento que venho estudando. Seja bem-vindo e fique a vontade para entrar em contato comigo através do Linkedin, instagram ou e-mail.
+Estou no 3º período de Analise e Desenvolvimento de Sistemas da Faculdade Metropolitana e aqui, estarei compartilhando todo meu aprendizado e projetos pessoais neste meu espaço. com as tecnologias e linguagens, com os frameworks e bibliotecas e com as ferramentas de desenvolvimento que venho estudando. Seja bem-vindo e fique a vontade para entrar em contato comigo através do Linkedin, instagram ou e-mail.
 <p align="left">
   Vamos nos conectar? 🙋‍♂️
 </p>
